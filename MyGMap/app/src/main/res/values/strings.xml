@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGMap</string>
+    <string name="title_activity_display_map">DisplayMap</string>
+    <string name="title_activity_new_map">NewMap</string>
+</resources>
